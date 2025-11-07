@@ -47,7 +47,7 @@ C「今日はおつかれ～！みんなおなかすいてるよね、何食べ�
 [link target=*tag_potato] → ポテト　[endlink][r]
 [link target=*tag_ko-ra] →飲み物だけにする　 [endlink][r]
 [link target=*none] → なにも食べない　[endlink][r]
-
+[s]
 
 *tag_potato
 
